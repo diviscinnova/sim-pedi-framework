@@ -1,0 +1,2 @@
+[console_scripts]
+sim-pedi = computation.main:main
